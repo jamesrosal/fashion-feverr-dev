@@ -4,7 +4,7 @@ import './GigCard.scss';
 
 const GigCard = ({ item }) => {
   return (
-    // test commit gig
+    // test commit
     <Link to='/gig/123'>
       <div className='gigCard'>
         <img src={item.img} alt='' />
